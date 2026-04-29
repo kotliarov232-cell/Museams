@@ -24,7 +24,7 @@ function Home() {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src="https://www.rbc.ua/static/img/5/6/565337688_1333950085065558_9222303464832975462_n_de3df2ebd795eff4783ef17eaf50c4c1_1300x820.jpg"
+              src="https://mandry.club/wp-content/uploads/2020/05/parizh-luvr.jpg"
               alt="Лувр"
               style={{ height: "500px", objectFit: "cover" }}
             />
